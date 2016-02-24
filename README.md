@@ -7,8 +7,9 @@ Introduction to Sketch and inVision by hands-on examples of how to use.
 
 ## Required Installations
 
-[Sketch](https://www.sketchapp.com/)
-[Sketch Toolbox](http://sketchtoolbox.com/)
+* [Sketch](https://www.sketchapp.com/)
+* [Sketch Toolbox](http://sketchtoolbox.com/)
+* [inVision Sync](http://www.invisionapp.com/app/InVisionSync.zip)
 
 Launch the Sketch Toolbox. Find and install:
 
